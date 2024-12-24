@@ -11,6 +11,7 @@ I have worked with clients globally, and I am involved in development at [Vigil 
 You can reach me through:
 
 - [LinkedIn](https://br.linkedin.com/in/matheus-silva-ml)
+- [Gmail](matheusupwork98@gmail.com)
 
 <a href="https://github.com/Matheuspp">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheuspp&&theme=gruvbox&count_private=true&include_all_commits=true" alt="Matheus Silva GitHub stats" /><br />
